@@ -33,7 +33,8 @@ int main( )
 {
 	int val;
 	cout << "thetta er gaman";
-	cout << "svona lika mikid fjor";
+	cout << "svona lika mikid fjor" << endl;
+	cout << "Şetta er svo miklu betra núna, eftir góğan svefn " << endl; 
 	do
 	{
 		cout << endl << endl << endl;
