@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	int val;
+	cout << "şetta er gaman";
 	do
 	{
 		cout << endl << endl << endl;
